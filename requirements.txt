@@ -1,3 +1,7 @@
-xstreamlit==1.29.0
+streamlit==1.29.0
 protobuf==4.21.12
+pillow==9.5.0
+numpy==1.24.3
 packaging==23.1
+pandas==2.0.3
+python-dev-tools==2023.3.1
