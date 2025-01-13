@@ -1,0 +1,7 @@
+[build]
+  base = "/"
+  publish = "build"  # or your build output directory
+  command = "pip install -r requirements.txt && python dua.py build"  # adjust based on your build process
+
+[build.environment]
+  PYTHON_VERSION = "3.9"  # adjust to match your Python version
